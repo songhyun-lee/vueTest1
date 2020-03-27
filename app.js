@@ -3,7 +3,7 @@ var app = new Vue({
   data: {
     message: 'Hello Vue!'
   }
-});
+}); 
 
 var app2 = new Vue({
   el: '#app-2',
